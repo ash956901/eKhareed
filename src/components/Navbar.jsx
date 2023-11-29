@@ -9,7 +9,7 @@ const Navbar = () => {
       <nav className=" flex items-center h-20 max-w-6xl mx-auto justify-between ">
         <NavLink to="/eKhareed">
           <div className="ml-5">
-            <img className="h-14" src="../logo_ashu.png" />
+            <img className="h-14" src="../logo.png" />
           </div>
         </NavLink>
 
