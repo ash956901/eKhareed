@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eKhareed/static/css/main.ee74b6bd.css",
+    "main.js": "/eKhareed/static/js/main.72fe7f79.js",
+    "index.html": "/eKhareed/index.html",
+    "main.ee74b6bd.css.map": "/eKhareed/static/css/main.ee74b6bd.css.map",
+    "main.72fe7f79.js.map": "/eKhareed/static/js/main.72fe7f79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee74b6bd.css",
+    "static/js/main.72fe7f79.js"
+  ]
+}
