@@ -5,6 +5,7 @@ eKhareed is an e-commerce platform built using React.
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Preview](#preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
@@ -15,6 +16,15 @@ eKhareed is an e-commerce platform built using React.
 ## Introduction
 
 eKhareed is a web-based e-commerce application developed with React. It allows users to browse products, add them to the cart, and proceed with the purchase.
+
+## Preview
+
+<a href="https://ibb.co/QKs690N"><img src="https://i.ibb.co/1mH9Zcq/ek1.png" alt="ek1" border="0"></a>
+<a href="https://ibb.co/vkgyPPM"><img src="https://i.ibb.co/Wfq8yyR/eK2.png" alt="eK2" border="0"></a>
+<a href="https://ibb.co/hsNgc6t"><img src="https://i.ibb.co/JnTcq1M/ek3.png" alt="ek3" border="0"></a>
+
+
+
 
 ## Installation
 
